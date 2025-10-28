@@ -79,11 +79,11 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 ---
 
-## Contribution Graph
+## Contribution Landscape
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=SreeyaSrikanth&theme=react-dark&hide_border=true&area=true)
+![](https://ssr-contributions-svg.vercel.app/_/SreeyaSrikanth?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30)
 
 </div>
 
@@ -108,7 +108,7 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 <div align="center">
 
-*"This code is like my humor. There's nothing to see here."* – not Cory House
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![](https://komarev.com/ghpvc/?username=SreeyaSrikanth&style=flat-square&color=blueviolet)
 
