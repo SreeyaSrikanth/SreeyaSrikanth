@@ -108,7 +108,7 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"This code is like my humor. There's nothing to see here."* – not Cory House
 
 ![](https://komarev.com/ghpvc/?username=SreeyaSrikanth&style=flat-square&color=blueviolet)
 
