@@ -1,24 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Sreeya Srikanth
+# Hi, I'm Sreeya Srikanth
 
 ### Backend Developer | Passionate Learner | Builder
 
 *Creating elegant solutions, one line of code at a time*
 
-[![GitHub followers](https://img.shields.io/github/followers/SreeyaSrikanth?style=social)](https://github.com/SreeyaSrikanth)
-
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm a backend developer who thrives on learning and creating. I believe in writing clean, efficient code and building systems that make a difference. Whether it's architecting robust APIs, training ML models, or diving into data analytics, I'm always excited to explore new technologies and solve challenging problems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -81,27 +79,24 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeyaSrikanth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeyaSrikanth&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
+  
+![](https://github-readme-stats.vercel.app/api?username=SreeyaSrikanth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreeyaSrikanth&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com?user=SreeyaSrikanth&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreeyaSrikanth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeyaSrikanth&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://komarev.com/ghpvc/?username=SreeyaSrikanth&style=flat-square&color=58a6ff" alt="Profile Views"/>
+![](https://komarev.com/ghpvc/?username=SreeyaSrikanth&style=flat-square&color=blueviolet)
 
 </div>
