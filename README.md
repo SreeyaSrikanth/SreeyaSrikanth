@@ -79,15 +79,28 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 ---
 
-## GitHub Activity
+## Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=SreeyaSrikanth&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## GitHub Stats
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=SreeyaSrikanth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreeyaSrikanth&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeyaSrikanth&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=SreeyaSrikanth&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeyaSrikanth&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
