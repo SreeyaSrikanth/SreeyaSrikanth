@@ -79,13 +79,13 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 ---
 
-## Contribution Garden
+## Contribution Heatmap
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+[![Sreeya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SreeyaSrikanth&theme=high-contrast&hide_border=true&custom_title=Contribution%20Calendar&area=true&line=e056fd&point=b13583&bg_color=0d1117&color=e056fd)](https://github.com/SreeyaSrikanth)
+
+</div>
 
 ---
 
