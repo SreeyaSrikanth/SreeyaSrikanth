@@ -79,13 +79,13 @@ I'm a backend developer who thrives on learning and creating. I believe in writi
 
 ---
 
-## Contribution Landscape
+## Contribution Garden
 
-<div align="center">
-
-![](https://ssr-contributions-svg.vercel.app/_/SreeyaSrikanth?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=30)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SreeyaSrikanth/SreeyaSrikanth/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
